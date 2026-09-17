@@ -120,21 +120,7 @@ Aplicação utilizando uma API para trabalhar com informações de personagens e
 
 ---
 
-# 📊 GitHub Analytics
 
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=leomarinsenaidstatui-cmyk&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
-  height="170"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=leomarinsenaidstatui-cmyk&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
-  height="170"
-/>
-
-</div>
 
 ---
 
